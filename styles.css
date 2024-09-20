@@ -1,0 +1,27 @@
+#main_contener{
+    margin: 10px;
+}
+#blog_text_contener{
+    border: 1px solid black;
+    height: auto;
+    padding: 0px 0px 15px 15px;
+    
+    
+}
+h1{
+    font-weight: 150px;
+    
+}
+.hyper_link{
+    text-decoration:none;
+    
+}
+ol{
+    padding-left: 5px;
+    margin-left: 10px;
+}
+.headingblog{
+    margin-top: 0px;
+    padding-top: 0px;
+    
+}
